@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">KPL Jurnal Mod 7</string>
+
+    <string name="lang">CONFIG1</string>
+    <string-array
+        name="transfer">
+        <item
+            >CONFIG2
+        </item>
+        <item
+            >CONFIG3
+        </item>
+        <item
+            >CONFIG4
+        </item>
+    </string-array>
+    <string name="methods">CONFIG5</string>
+    <string-array
+        name="confirmation">
+        <item
+            >CONFIG6
+        </item>
+        <item
+            >CONFIG7
+        </item>
+    </string-array>
+
+</resources>
